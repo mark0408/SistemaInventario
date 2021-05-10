@@ -1,0 +1,17 @@
+.FilaPxkm span:nth-child(1){
+    width: 20em;
+    color:blue;
+    display: inline-block;
+    margin-left: 2rem;
+    margin-bottom: 1rem;
+}
+.FilaPxkm span:nth-child(2){
+    width: 15em;
+    color:green;
+    display: inline-block;
+}
+.FilaPxkm span:nth-child(3){
+    width: 13em;
+    color:black;
+    display: inline-block;
+}
